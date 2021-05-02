@@ -1,0 +1,19 @@
+
+version: 2
+updates:
+
+  # Maintain dependencies for npm
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+    open-pull-requests-limit: 10
+    assignees:
+      - "Rockin4Life33"
+    reviewers:
+      - "Rockin4Life33"
+    labels:
+      - "npm"
+      - "dependencies"
+      - "dependabot"
+      
