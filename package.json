@@ -10,7 +10,7 @@
   "dependencies": {
     "typeorm": "0.2.41",
     "reflect-metadata": "^0.1.10",
-    "pg": "^8.7.1",
+    "pg": "^8.7.3",
     "express": "^4.17.2",
     "body-parser": "^1.19.1"
   },
